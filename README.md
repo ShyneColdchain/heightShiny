@@ -3,6 +3,10 @@ heightShiny
 
 Shiny (R) visualization of X, Y, Z bird data
 
+requires R and Shiny installed 
+
+> library(Shiny)
+
 data - 
         store partially simulated data inside (CSV) of
         three birds with GPS (X and Y coordinates)
@@ -21,5 +25,6 @@ timeAnalysis.R -
 Launch Shiny App of this data with the commands: 
 
 heightShiny - 
-runGithub(heightShiny, ShyneColdchain) 
+
+> runGithub(heightShiny, ShyneColdchain) 
 
