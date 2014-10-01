@@ -24,7 +24,5 @@ timeAnalysis.R -
 
 Launch Shiny App of this data with the commands: 
 
-heightShiny - 
-
 > runGithub(heightShiny, ShyneColdchain) 
 
